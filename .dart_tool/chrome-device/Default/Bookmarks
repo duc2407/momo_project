@@ -1,0 +1,89 @@
+{
+   "checksum": "05d0476b0fe31f7114cabec3d351eef9",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13355804193343721",
+            "date_last_used": "0",
+            "guid": "4f321a8e-ed88-4cfa-b08d-df4c42a12011",
+            "id": "9",
+            "name": "Agoda",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/agoda.html?utm_source=win32&utm_medium=favorite"
+         }, {
+            "date_added": "13355804193343638",
+            "date_last_used": "0",
+            "guid": "4f930a1d-b1f5-455b-89a2-858e588b45a5",
+            "id": "8",
+            "name": "Amazon",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/amazon.html?utm_source=win32&utm_medium=favorite"
+         }, {
+            "date_added": "13355804193343179",
+            "date_last_used": "0",
+            "guid": "346ca718-b866-4a19-9b1c-566ad67e0cb3",
+            "id": "7",
+            "name": "Facebook",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/20q2/facebook.html?utm_source=win32&utm_medium=favorite"
+         }, {
+            "children": [ {
+               "date_added": "13267452602632564",
+               "date_last_used": "0",
+               "guid": "34ffc198-68bf-4794-8bf1-8711cc43ffea",
+               "id": "11",
+               "name": "Acer",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.acer.com/"
+            } ],
+            "date_added": "13355804195871651",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "7ffcceee-b963-43cd-86c8-0c14e3bfbafa",
+            "id": "10",
+            "name": "Acer",
+            "source": "import_fre",
+            "type": "folder"
+         } ],
+         "date_added": "13355804193123561",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Thanh mục yêu thích",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13355804193123564",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Các mục yêu thích khác",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13355804193123566",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Yêu thích trên Di động",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
